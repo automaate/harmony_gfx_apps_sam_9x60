@@ -1,0 +1,77 @@
+sys_time.pbi: \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system\time\src\sys_time.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Defaults.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\DLib_Product_string.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/time/sys_time.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\stdbool.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/system.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/system_common.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\arm\inc\c\assert.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/system_module.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/time/sys_time_definitions.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/int/sys_int.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\device.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP\sam9x60.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/adc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/aes.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/aic.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/bsc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/can.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/classd.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/dbgu.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/emac.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/flexcom.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/gfx2d.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/gpbr.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/i2smcc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/isi.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/lcdc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/matrix.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/mpddrc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/otpc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pio.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pit.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pit64b.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pmc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pmecc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pmerrloc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/pwm.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/qspi.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/rstc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/rtc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/rtt.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/sckc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/sdmmc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/sdramc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/sfr.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/sha.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/shdwc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/smc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/ssc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/syscwp.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/tc.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/tdes.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/trng.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/udphs.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/uhpfs.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/uhphs.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/wdt.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/component/xdmac.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\packs\SAM9X60_DFP/pio/sam9x60.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar/device_cache.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar/peripheral/mmu/plib_mmu.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar/toolchain_specifics.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system/int/sys_int_mapping.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\configuration.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar/user.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\system\time\src/sys_time_local.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\osal/osal.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\osal/osal_definitions.h \
+  C:\Harmony3\harmony_gfx_apps_sam_9x60\apps\legato_quickstart\firmware\legato_qs_9x60_ek_tm5000.IAR\..\src\config\lcdc_rgba8888_mxt_9x60_wvga_iar\osal/osal_impl_basic.h

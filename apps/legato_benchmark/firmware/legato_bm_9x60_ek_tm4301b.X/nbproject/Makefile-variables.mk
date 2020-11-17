@@ -1,0 +1,13 @@
+#
+# Generated - do not edit!
+#
+# NOCDDL
+#
+CND_BASEDIR=`pwd`
+# lcdc_rgba8888_mxt_9x60_wqvga configuration
+CND_ARTIFACT_DIR_lcdc_rgba8888_mxt_9x60_wqvga=dist/lcdc_rgba8888_mxt_9x60_wqvga/production
+CND_ARTIFACT_NAME_lcdc_rgba8888_mxt_9x60_wqvga=legato_bm_9x60_ek_tm4301b.X.production.hex
+CND_ARTIFACT_PATH_lcdc_rgba8888_mxt_9x60_wqvga=dist/lcdc_rgba8888_mxt_9x60_wqvga/production/legato_bm_9x60_ek_tm4301b.X.production.hex
+CND_PACKAGE_DIR_lcdc_rgba8888_mxt_9x60_wqvga=${CND_DISTDIR}/lcdc_rgba8888_mxt_9x60_wqvga/package
+CND_PACKAGE_NAME_lcdc_rgba8888_mxt_9x60_wqvga=legatobm9x60ektm4301b.x.tar
+CND_PACKAGE_PATH_lcdc_rgba8888_mxt_9x60_wqvga=${CND_DISTDIR}/lcdc_rgba8888_mxt_9x60_wqvga/package/legatobm9x60ektm4301b.x.tar
