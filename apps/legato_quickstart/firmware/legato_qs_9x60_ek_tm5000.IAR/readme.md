@@ -31,13 +31,13 @@ Adding the **SAM 9x60 Evaluation Kit BSP** and **Legato Graphics w/ PDA TM5000 D
 Building the Application
 ------------------------
 
-The parent directory for this application is gfx/apps/legato\_quickstart. To build this application, use MPLAB X IDE to open the gfx/apps/legato\_quickstart/firmware/legato\_qs\_9x60\_ek\_tm5000.X project file.
+The parent directory for this application is apps/legato\_quickstart. To build this application, use IAR EW for ARM to open the apps/legato\_quickstart/firmware/legato\_qs\_9x60\_ek\_tm5000.IAR project file.
 
 The following table lists configuration properties:
 
 |Project Name|BSP Used|Graphics Template Used|Description|
 |:-----------|:-------|:---------------------|:----------|
-|legato\_qs\_9x60\_ek\_tm5000.IAR|SAM 9x60 Evaluation Kit|Legato Graphics w/ PDA TM5000 Display|SAM 9x60 Evaluation Kit with RGBA8888 GFX Interface and 5" WVGA PCAP Touch display|
+|legato\_qs\_9x60\_ek\_tm5000.IAR|SAM 9x60 Evaluation Kit|Legato Graphics w/ PDA TM5000 Display|SAM 9x60 Evaluation Kit with RGBA8888 GFX Interface and WVGA PCAP Touch display|
 
 > \*\*\_NOTE:\_\*\* This application may contain custom code that is marked by the comments // START OF CUSTOM CODE ... and // END OF CUSTOM CODE. When using the MPLAB Harmony Configurator to regenerate the application code, use the "ALL" merging strategy and do not remove or replace the custom code.
 
@@ -61,6 +61,8 @@ Running the Demonstration
 When power-on is successful, the demonstration will display a similar menu to that shown in the following figure (different configurations may have slight variation in the screen aspect ratio):
 
 ![](../../../../docs/html/legato_quickstart_wqvga_run.png)
+
+When Make changes. Generate. Run. is touched, the button will toggle with each individual touch.
 
 * * * * *
 
